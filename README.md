@@ -6,7 +6,7 @@ Two permanent magnet synchronous motors (ENSTROJ EMRAX 228) using 2 motor contro
   <img src="Figures/powertrain.png" alt="drawing" width="650"/>
 </p>
 
-The assembly of the electric powertrain inside the electric vehicle is shown below.
+The assembly of the electric powertrain inside the race car is shown below.
 
 ![photo](Figures/powertrain2.png)
 
