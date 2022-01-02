@@ -1,11 +1,12 @@
 # Electric Powertrain Control & Assembly
 
-The Accumulator Container/Battery Pack has 288 batteries and a maximum voltage of 600V with 7.45kWh and consists of 12 segments of batteries (12s2p), 2 high-voltage relay contacts and a high current fast-blow fuse.
+Two synchronous permanent magnet motors (ENSTROJ EMRAX 228) using 2 motor controllers Unitek Bamocar d3 along with the battery pack are installed in the formula race car. The motors are controlled using the motor controller firmware and the assembly of the electric powertrain is presented below.
 
-The full assembly of the battery container.
+![photo](Figures/Powertrain.png)
 
-![photo](Screenshots/Screenshot_10.png)
+The assembly of the electric powertrain inside the electric vehicle is shown below.
 
-Bellow, it is shown the design of one segment.
+![photo](Figures/Powertrain2.png)
 
-![photo](Screenshots/Screenshot_1.png)
+![photo](Figures/Powertrain1.png)
+
