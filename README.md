@@ -1,6 +1,6 @@
 # Electric Powertrain Control & Assembly
 
-Two synchronous permanent magnet motors (ENSTROJ EMRAX 228) using 2 motor controllers Unitek Bamocar d3 along with the battery pack are installed in the formula race car. The motors are controlled using the motor controller firmware and the assembly of the electric powertrain is presented below.
+Two permanent magnet synchronous motors (ENSTROJ EMRAX 228) using 2 motor controllers (Unitek Bamocar d3) are installed in the formula student race car. The motors are controlled using the motor controller firmware and the assembly of the electric powertrain is presented below.
 
 <p align="center">
   <img src="Figures/powertrain.png" alt="drawing" width="750"/>
